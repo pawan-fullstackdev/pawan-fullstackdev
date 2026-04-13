@@ -1,7 +1,3 @@
-<!-- 🔥 BANNER -->
-<p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Pawan Kumar Banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 
@@ -14,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=pawan-fullstackdev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -74,11 +70,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=pawan-fullstackdev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-fullstackdev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
