@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 https://skillcraze.net 
+🔹 https://skillcraze.net<br>
 🔹 https://app.yogatimewithprachi.com  
 🔹 https://pms.enginerds.in  
 🔹 https://app.hitechgroup.in/login  
